@@ -27,6 +27,7 @@ python main.py
 ## Interfaz
 
 _ **El programa mostrará una ventana con dos botones:**
+
     . Seleccionar archivo: Permite elegir un archivo específico y calcula sus hashes.
     . Seleccionar carpeta: Escanea todos los archivos dentro de una carpeta seleccionada y calcula sus hashes, generando un solo log para todos.
 
@@ -35,6 +36,7 @@ _ **El programa mostrará una ventana con dos botones:**
 ## ¿Qué contiene el log generado?
 
 _ **El archivo de log incluye:**
+
     .Nombre del archivo
     .Ruta del archivo
     .Fecha y hora de cálculo
@@ -45,6 +47,7 @@ _ **El archivo de log incluye:**
 ------------------------------------------------------------------------
 
 ## Notas:
+
     .Todos los logs se guardan en una carpeta elegida por el usuario.
     .No se sobrescriben logs anteriores, ya que cada uno incluye fecha y hora en el nombre.
 
